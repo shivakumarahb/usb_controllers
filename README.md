@@ -5,3 +5,6 @@
 usb_disconnect.cpp will detach the usb kernels from device
 
 usb_disconnect.cpp will attach the usb kernels from device
+
+
+current code is legacy
